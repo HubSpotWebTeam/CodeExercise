@@ -20,7 +20,7 @@ This code assessment is broken up into two exercises. All exercises should displ
 
 The mockup with all filters collapsed. See the section below for how the expanded filter dropdowns should appear.
 
-<a href="https://cdn2.hubspot.net/hubfs/53/web_team/web-team-test/web-team-exercise_3.png" target="_blank">
+<a href="https://cdn2.hubspot.net/hubfs/53/web_team/web-team-test/web-team-exercise_3_v2.png" target="_blank">
     <img src="https://cdn2.hubspot.net/hubfs/53/web_team/web-team-test/web-team-exercise_3.png" alt="Mockup" width="600" />
 </a>
 
